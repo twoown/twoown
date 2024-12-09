@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, software development, and hairstyling.
 - 🌱 I’m currently learning new programming languages and techniques, and improving my hairstyling skills.
 - 💞️ I’m looking to collaborate on open-source software projects, particularly related to mobile apps and tools, and exchange ideas with others in tech and design.
-- 📫 How to reach me: You can reach me via my email or on Twitter (@uuneooo).
+- 📫 How to reach me: You can reach me via my email or on Telegram (@uuneo).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m both a programmer and a hairstylist — combining creativity with logic!
 
